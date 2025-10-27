@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\server_user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:server_user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\server_user\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:server_user\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\stage4\\battlesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:stage4\\battlesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\rpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:rpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\stage4\\keyhandlebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:stage4\\keyhandlebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|c:\\users\\shpyl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ood\\rpg\\ood_25l_01193104_project\\rpg\\stage4\\keyhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BE0335-39A0-3442-08E5-70529A8919AF}|RPG.csproj|solutionrelative:stage4\\keyhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Conroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Conroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RPG.csproj",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\RPG.csproj",
+              "RelativeDocumentMoniker": "RPG.csproj",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\RPG.csproj",
+              "RelativeToolTip": "RPG.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T20:03:49.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Server_User\\Server.cs",
+              "RelativeDocumentMoniker": "Server_User\\Server.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Server_User\\Server.cs",
+              "RelativeToolTip": "Server_User\\Server.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAA9wDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:03:56.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Enemy.cs",
+              "RelativeDocumentMoniker": "Enemy.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Enemy.cs",
+              "RelativeToolTip": "Enemy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:34:56.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Potion.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Potion.cs",
+              "RelativeDocumentMoniker": "Potion.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Potion.cs",
+              "RelativeToolTip": "Potion.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:21:58.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BattleSimulation.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Stage4\\BattleSimulation.cs",
+              "RelativeDocumentMoniker": "Stage4\\BattleSimulation.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Stage4\\BattleSimulation.cs",
+              "RelativeToolTip": "Stage4\\BattleSimulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:16:50.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTO.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\DTO.cs",
+              "RelativeDocumentMoniker": "DTO.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\DTO.cs",
+              "RelativeToolTip": "DTO.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAcwHoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:07:06.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:07:00.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Builder.cs",
+              "RelativeDocumentMoniker": "Builder.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Builder.cs",
+              "RelativeToolTip": "Builder.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAIwF4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:43:15.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\World.cs",
+              "RelativeDocumentMoniker": "World.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\World.cs",
+              "RelativeToolTip": "World.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAA+wGoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:42:30.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Server_User\\User.cs",
+              "RelativeDocumentMoniker": "Server_User\\User.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Server_User\\User.cs",
+              "RelativeToolTip": "Server_User\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:38:39.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Display.cs",
+              "RelativeDocumentMoniker": "Display.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Display.cs",
+              "RelativeToolTip": "Display.cs",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAiwHIBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:30:41.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Conroller.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Conroller.cs",
+              "RelativeDocumentMoniker": "Conroller.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Conroller.cs",
+              "RelativeToolTip": "Conroller.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAuwM0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:28:11.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:22:52.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KeyHandleBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Stage4\\KeyHandleBuilder.cs",
+              "RelativeDocumentMoniker": "Stage4\\KeyHandleBuilder.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Stage4\\KeyHandleBuilder.cs",
+              "RelativeToolTip": "Stage4\\KeyHandleBuilder.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:22:17.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Keyhandling.cs",
+              "DocumentMoniker": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Stage4\\Keyhandling.cs",
+              "RelativeDocumentMoniker": "Stage4\\Keyhandling.cs",
+              "ToolTip": "C:\\Users\\shpyl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OOd\\RPG\\OOD_25L_01193104_Project\\RPG\\Stage4\\Keyhandling.cs",
+              "RelativeToolTip": "Stage4\\Keyhandling.cs",
+              "ViewState": "AQIAADkBAAAAAAAAAAAqwEcBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:19:43.092Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

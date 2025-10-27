@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection.Metadata.Ecma335;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RPG
+{
+    public class MagicWeapon : Weapon, IDamageVisitable, IDefenceVisitable  
+    {
+        public MagicWeapon(string name, string description, int dmg, bool one_hand) : base(name, description, dmg, one_hand) { }
+        public override int Accept(IDamageVisitor visitor)
+        {
+            return visitor.Visit(this);
+        }
+        public override int Defence(IDefenceVisitor visitor)
+        {
+            return visitor.ApplyDefence(this);
+        }
+    }
+}
