@@ -212,6 +212,10 @@ public class InvetoryEquip : KEY_Handling {
         if (Action.Length == 3 && Action[0] == 'I')
         {
             int index = Action[1] - '0';
+            if(index > p.inventory.Count)
+            {
+                return (p.GetX(), p.GetY());
+            }
             char act = Action[2];
             switch (act)
             {
